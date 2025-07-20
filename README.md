@@ -26,13 +26,13 @@
 
 ###
 
-- 🔭 I’m currently working on **Secret ML Model**
+- 🔭 I’m currently working on **Self Development**
 
 - 🌱 I’m currently learning **Develop | Deploy | Level Up**
 
 - 🤝 I’m looking to help people with **Coding Enthusiastic**
 
-- 💬 Tell me your Problems **I'll provide Solutions**
+- 💬 Ask me about **AI Tools**
 
 - 📫 How to reach me **jayeshvjaddhavv@gmail.com**
 
