@@ -36,7 +36,7 @@
 
 - 📫 How to reach me **jayeshvjaddhavv@gmail.com**
 
-- ⚡ Fun fact **The only way I learn a new programming language is by writing programs in it.** <br><br>
+- ⚡ Fun fact **" The only way I learn a new programming language is by writing programs in it! "** <br><br>
 
 ---
 <br>
