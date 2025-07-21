@@ -1,13 +1,14 @@
 <div align="center">
-  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2UxaDVvY3FmZGsxNzRxZmp0NmJsN3IxZjIxNzRhbGQybHZlOXIzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2UxaDVvY3FmZGsxNzRxZmp0NmJsN3IxZjIxNzRhbGQybHZlOXIzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://github.com/user-attachments/assets/b5625362-bf60-49fc-8fc5-b4bcb5fb9304" width="62" height="62" alt="LinkedIn" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/d4a4cf29-9636-4bf2-89a1-52492df9f3ab" width="66" height="66" alt="Github" /> &nbsp;
+  <img src="https://i.ibb.co/9mSftqCc/Chat-GPT-Image-Jul-21-2025-02-00-56-PM-removebg-preview.png" width="55" height="55" alt="Unstop" margin-bottom="20px" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/d80b0be4-5c7c-4e17-8fe6-dd8bcdf29c5c" width="60" height="60" alt="WhatsApp" />
 </div>
 
 ###
@@ -193,12 +194,3 @@
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-
----
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayeshvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayeshvj" height="30" width="40" /></a>
-</p> <br>
