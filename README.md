@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jayeshvj"><img src="https://github.com/user-attachments/assets/b5625362-bf60-49fc-8fc5-b4bcb5fb9304" width="62" height="62" alt="LinkedIn" /> </a> &nbsp;
   <a href="https://github.com/jayxvj"> <img src="https://github.com/user-attachments/assets/d4a4cf29-9636-4bf2-89a1-52492df9f3ab" width="66" height="66" alt="Github" /> </a> &nbsp;
-  <a href="https://unstop.com/u/jayesjad73998"> <img src="https://i.ibb.co/9mSftqCc/Chat-GPT-Image-Jul-21-2025-02-00-56-PM-removebg-preview.png" width="55" height="55" alt="Unstop" /> </a> &nbsp;
+  <a href="https://unstop.com/u/jayesjad73998"> <img src="https://i.postimg.cc/tgVg1p22/Chat-GPT-Image-Jul-21-2025-02-00-56-PM-removebg-preview.png" width="55" height="55" alt="Unstop" /> </a> &nbsp;
   <a href="https://wa.link/nsl5o3"> <img src="https://github.com/user-attachments/assets/d80b0be4-5c7c-4e17-8fe6-dd8bcdf29c5c" width="60" height="60" alt="WhatsApp" /> </a>
 </div>
 
